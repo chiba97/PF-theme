@@ -28,7 +28,6 @@
   今後同じ経験に合うかもしれない他ユーザーに向けて、違和感を覚えたペットの体調だったり、診察結果、対処法を投稿する
 
 ## 設計書
-<...>
 
 ## チャレンジ要素一覧
 <https://docs.google.com/spreadsheets/d/1yGCNv-vgAvrKYop9g9J57A8O4p_hVP3snTLn5_zZsnc/edit?usp=sharing>
